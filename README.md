@@ -3,7 +3,7 @@ tugas besar web HealthMe
 
 gunakan database dan juga file yang telah disediakan 
 atau jika mau melakukan run langsung, kami dari HealthMe dapat memberikan link ngrok nya dengan cara melakukan dm ke instagram 
-@madewijayya 
+@madewijayya atau jika diantara kalian mempunyai kontak kami bisa langsung di PC saja
 
 atau ikuti langkah-langkah berikut: 
 1. download file yang telah disediakan
